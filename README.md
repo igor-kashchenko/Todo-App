@@ -1,5 +1,5 @@
 # Todo App
-1. [Demo]
+1. [Demo](https://igor-kashchenko.github.io/Todo-App/)
 2. Tech Stack: React.js, JavaScript, TypeScript, HTML, SASS(SCSS), BEM
 
 # Plan Your Day
